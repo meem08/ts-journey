@@ -1,4 +1,4 @@
-const rate = 1300
+const rate = 1332
 function nariaToUsd(amount) {
    return amount/rate 
 }
