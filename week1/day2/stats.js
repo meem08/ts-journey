@@ -30,5 +30,5 @@ function findMin(numbers){
 
 const nums = [12, 5, 88, 3, 45, 88, -7]
 console.log(findAverage(nums))
-console.log(findMax(nums))
+console.log(findMax([]))
 console.log(findMin(nums))
